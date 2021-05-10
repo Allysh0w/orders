@@ -1,7 +1,6 @@
 # Orders
 
 Scala cli program to calculate if older product are still being sold.
-Given a time range and an optional set of month interval it can outputs the number of orders that have products with the given age.
 
 # Assembly application
 To build the application use:
