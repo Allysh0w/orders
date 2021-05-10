@@ -20,9 +20,9 @@ How to use:
 Challenge 0.1
 Usage: Challenge [options]
 
-  -s, --start <value>      start datetime | pattern: yyyy-MM-dd HH:mm:ss
-  -e, --end <value>        end datetime | pattern: yyyy-MM-dd HH:mm:ss
-  -i, --intervals <value>  array intervals | example: 1-3,4-6,7-12,>12
+  -s, --start "value"      start datetime | pattern: yyyy-MM-dd HH:mm:ss
+  -e, --end "value"        end datetime | pattern: yyyy-MM-dd HH:mm:ss
+  -i, --intervals "value"  array intervals | example: 1-3,4-6,7-12,>12
 ```
 
 
